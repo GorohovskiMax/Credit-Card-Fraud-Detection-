@@ -22,4 +22,5 @@ All development is contained in a single notebook: `fraud_detection_project.ipyn
 ### Result
 The pipeline achieved strong ROC-AUC and competitive recall through a combination of engineered features, model tuning, and imbalanced-learning strategies.
 
-**Collaborator**: [Omer Sade](https://github.com/omer-sade)
+
+**Collaborators**: [Omer Sade](https://github.com/omer-sade)
